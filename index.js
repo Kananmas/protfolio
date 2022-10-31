@@ -89,6 +89,7 @@
     element.onclick
     element.addEventListner('event',function,true)
     <element event='function'></element>
+    <h1>Hello World</h1>
 
  */
 
